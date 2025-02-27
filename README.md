@@ -79,7 +79,6 @@ O Carbon-Track é uma solução escalável que pode ser facilmente integrada em 
 Para começar, clone o repositório para o seu ambiente local, instale as dependências e inicie o aplicativo com os seguintes comandos:
 
 ```bash
-git clone https://github.com/seu-usuario/carbon-track.git
 
 cd carbon-track
 
